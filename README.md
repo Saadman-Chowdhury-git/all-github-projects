@@ -21,6 +21,6 @@ SQL-driven data pipelines and transformation of raw data into actionable insight
 
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This portfolio will continue to grow as new projects are refined and documented.
