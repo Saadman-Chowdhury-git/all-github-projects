@@ -1,1 +1,1 @@
-This is my Git root repository for projects and their documentation
+This is my Git Root Repository for projects and their documentation
