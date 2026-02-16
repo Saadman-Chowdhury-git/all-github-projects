@@ -4,7 +4,7 @@ This repository contains a structured collection of projects focused on statisti
 
 Each project is organized in its own folder and highlights practical applications of statistics, machine learning, and causal inference in real-world contexts.
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Projects include:
 
 ## 1. Causal Analysis and Experimental Design
