@@ -19,4 +19,8 @@ Replication and extension of research on optimization of neural network architec
 ## 5. End-to-End Data Analytics Pipeline
 SQL-driven data pipelines and transformation of raw data into actionable insights.
 
+
+
+
+
 This portfolio will continue to grow as new projects are refined and documented.
