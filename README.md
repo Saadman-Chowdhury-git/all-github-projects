@@ -26,7 +26,7 @@ Predictive modeling competition final based on Baruch Coursework
 Observational study of booking channels and hotel cancellations using logistic regression and methods to control for confounding.
 
 ## 4. Genetic Algorithm Optimization for Credit Risk
-📁 Folder: [04._ga_optimization_credit_risk](./04._ga_optimization_nn_credit_risk) 
+📁 Folder: [04._ga_optimization_nn_credit_risk](./04._ga_optimization_nn_credit_risk) 
 
 
 Replication and extension of research on optimization of neural network architectures for credit scoring.
