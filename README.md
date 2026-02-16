@@ -9,22 +9,32 @@ Projects include:
 
 ## 1. Exploratory Data Analysis and Regression Modeling
 📁 Folder: [01_eda_and_regression](./01_eda_and_regression)  
+
+
 End-to-end analysis including data cleaning, visualization, hypothesis testing, and multivariate modeling. 
 
 ## 2. Statistical Machine Learning
 📁 Folder: [02_ml_prediction_competition](./02_ml_prediction_competition) 
+
+
 Predictive modeling competition final based on Baruch Coursework
 
 ## 3. Causal Analysis and Experimental Design
 📁 Folder: [03_causal_analysis](./03_causal_analysis)
+
+
 Observational study of booking channels and hotel cancellations using logistic regression and methods to control for confounding.
 
 ## 4. Genetic Algorithm Optimization for Credit Risk
 📁 Folder: [04_ga_optimization_credit_risk](./04_ga_optimization_credit_risk) 
+
+
 Replication and extension of research on optimization of neural network architectures for credit scoring.
 
 ## 5. End-to-End Data Analytics Pipeline
 📁 Folder: [05_end_to_end_analytics](./05_end_to_end_analytics)
+
+
 SQL-driven data pipelines and transformation of raw data into actionable insights.
 
 ---
