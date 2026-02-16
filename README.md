@@ -1,7 +1,10 @@
 # Data Analytics and Statistical Modeling Portfolio
 
-This repository contains a collection of projects focused on statistical modeling, predictive insights, and data-driven decision making. The goal of this portfolio is to demonstrate practical applications of statistics, machine learning, and causal inference in real-world contexts.
+This repository contains a structured collection of projects focused on statistical modeling, predictive insights, and data-driven decision making. 
 
+Each project is organized in its own folder and highlights practical applications of statistics, machine learning, and causal inference in real-world contexts.
+
+---
 Projects include:
 
 ## 1. Causal Analysis and Experimental Design
@@ -19,8 +22,6 @@ Replication and extension of research on optimization of neural network architec
 ## 5. End-to-End Data Analytics Pipeline
 SQL-driven data pipelines and transformation of raw data into actionable insights.
 
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 This portfolio will continue to grow as new projects are refined and documented.
