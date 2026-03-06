@@ -1,1 +1,23 @@
+# IMPORTANT:
+# .gitignore paths must be relative to the repository root, NOT full system paths.
+# Example: use "resources to study machine learning in finance for me/"
+# NOT "/Users/saadmanchowdhury/Desktop/All Github projects/..."
+# This ensures portability when the repo is cloned on other machines.
+
+
+# macOS
 .DS_Store
+
+# Ignore all textbooks in this training folder
+08. Personal_python_Daily_Training/Textbooks/
+08.Personal_python_Daily_Training/Textbooks
+
+# Machine learning finance study resources
+resources to study machine learning in finance for me/
+
+#SQL training
+09.Personal_SQL_Daily_Training
+
+#Power BI Resources
+10.Power_BI/Resources
+
